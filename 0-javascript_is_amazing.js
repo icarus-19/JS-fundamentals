@@ -1,2 +1,2 @@
-const myvar = 'javascript is amazing'
-console.log(myvar);
+const my = 'javascript is amazing'
+console.log(my);
